@@ -1,6 +1,6 @@
 # Assignment 3:  Support Vector Machines classifier (SVC)
 
-This notebook demonstrates a complete iteration of Machine Learning Assignment 3, focusing on sentiment analysis of movie reviews. 
+This notebook provides a comprehensive walkthrough of Machine Learning Assignment 3, which is centered around building and tuning a Support Vector Machines (SVM) classifier for sentiment analysis of movie reviews. The assignment involves experimenting with various regularization parameters to optimize the model's performance.
 
 ## Dependencies
 
